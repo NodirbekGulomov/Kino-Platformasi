@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Interstellar",
+    "genre": "Sci-Fi",
+    "release_year": 2014,
+    "duration": 169,
+    "rating": 8.7,
+    "director": "Christopher Nolan"
+  },
+  {
+    "title": "Inception",
+    "genre": "Sci-Fi",
+    "release_year": 2010,
+    "duration": 148,
+    "rating": 8.8,
+    "director": "Christopher Nolan"
+  },
+  {
+    "title": "Titanic",
+    "genre": "Drama",
+    "release_year": 1997,
+    "duration": 195,
+    "rating": 7.9,
+    "director": "James Cameron"
+  },
+  {
+    "title": "Joker",
+    "genre": "Thriller",
+    "release_year": 2019,
+    "duration": 122,
+    "rating": 8.4,
+    "director": "Todd Phillips"
+  },
+  {
+    "title": "Avatar",
+    "genre": "Fantasy",
+    "release_year": 2009,
+    "duration": 162,
+    "rating": 7.8,
+    "director": "James Cameron"
+  },
+  {
+    "title": "The Batman",
+    "genre": "Action",
+    "release_year": 2022,
+    "duration": 176,
+    "rating": 7.9,
+    "director": "Matt Reeves"
+  },
+  {
+    "title": "Oppenheimer",
+    "genre": "Biography",
+    "release_year": 2023,
+    "duration": 180,
+    "rating": 8.6,
+    "director": "Christopher Nolan"
+  },
+  {
+    "title": "Parasite",
+    "genre": "Thriller",
+    "release_year": 2019,
+    "duration": 132,
+    "rating": 8.5,
+    "director": "Bong Joon-ho"
+  },
+  {
+    "title": "John Wick",
+    "genre": "Action",
+    "release_year": 2014,
+    "duration": 101,
+    "rating": 7.4,
+    "director": "Chad Stahelski"
+  },
+  {
+    "title": "Dune",
+    "genre": "Sci-Fi",
+    "release_year": 2021,
+    "duration": 155,
+    "rating": 8.0,
+    "director": "Denis Villeneuve"
+  }
+]
